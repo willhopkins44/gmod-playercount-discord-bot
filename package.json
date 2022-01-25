@@ -12,5 +12,8 @@
   "dependencies": {
     "discord.js": "^13.6.0",
     "gamedig": "^3.0.8"
+  },
+  "engines": {
+    "node": ">=16"
   }
 }
