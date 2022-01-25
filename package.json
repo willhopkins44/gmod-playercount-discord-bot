@@ -1,0 +1,14 @@
+{
+  "name": "gmod-discord-playercount",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Will Hopkins",
+  "license": "ISC",
+  "dependencies": {
+    "gamedig": "^3.0.8"
+  }
+}
