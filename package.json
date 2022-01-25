@@ -9,6 +9,7 @@
   "author": "Will Hopkins",
   "license": "ISC",
   "dependencies": {
+    "discord.js": "^13.6.0",
     "gamedig": "^3.0.8"
   }
 }
