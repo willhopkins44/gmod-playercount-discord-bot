@@ -10,6 +10,9 @@ client.on('ready', () => {
     // set status as playing on server
 
     // add steam connect link to profile
+
+    console.log("Bot initialized");
 })
 
+const token = process.env.BOT_TOKEN;
 client.login(token);

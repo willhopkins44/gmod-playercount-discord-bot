@@ -13,7 +13,10 @@
             ],
             "program": "${workspaceFolder}\\bot.js",
             "env": {
-                "BOT_TOKEN": ""
+                "BOT_TOKEN": "",
+                "SERVER_IP": "",
+                "PLAYERCOUNT_CHANNEL_ID": "",
+                "IP_CHANNEL_ID": ""
             }
         }
     ]
