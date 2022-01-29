@@ -17,7 +17,8 @@
                 "SERVER_IP": "",
                 "DISCORD_GUILD_ID": "",
                 "PLAYERCOUNT_CHANNEL_ID": "",
-                "IP_CHANNEL_ID": ""
+                "IP_CHANNEL_ID": "",
+                "PING_INTERVAL": ""
             }
         }
     ]
